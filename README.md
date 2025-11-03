@@ -12,6 +12,36 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
+---
+
+## 👨💻 Обо мне
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Влад"
+        self.age = 15
+        self.location = "Россия"
+        self.focus = "Backend Architecture & Microservices"
+        
+    def skills(self):
+        return {
+            'backend': ['Go', 'Python', 'FastAPI', 'Gin'],
+            'frontend': ['React', 'Tailwind CSS', 'JavaScript'],
+            'databases': ['PostgreSQL', 'Redis', 'SQLite'],
+            'devops': ['Docker', 'RabbitMQ', 'Message Brokers'],
+            'architecture': ['Microservices', 'Event-Driven', 'REST APIs']
+        }
+    
+    def current_goals(self):
+        return [
+            "Building scalable microservices architectures",
+            "Mastering Go concurrency patterns", 
+            "Developing full-stack applications",
+            "Learning system design principles"
+        ]
+
+me = Developer()
 
 ---
 
