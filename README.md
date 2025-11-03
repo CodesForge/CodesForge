@@ -1,10 +1,15 @@
 <h1 align="center">🚀 Привет, я Влад</h1>
-<h3 align="center">15 лет | Python-разработчик из России</h3>
+<h3 align="center">15 лет | Full-Stack Developer & Microservices Architect</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xolokostick&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
