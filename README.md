@@ -1,56 +1,77 @@
-<h1 align="center">🚀 Привет, я Влад</h1>
-<h3 align="center">16 лет | Full-Stack Developer & Microservices Architect</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xolokostick&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+# CodesForge
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+**Go Backend Engineer · Distributed Systems · High-Load Architecture · DevOps**
+
+*Building resilient, production-grade systems where correctness and observability are non-negotiable.*
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
 ---
 
-## 🛠️ Мой технологический стек
+## About
 
-## 🌐 Backend & APIs
+- Design and build **distributed services in Go**, architected around Clean Architecture and Domain-Driven Design with strict dependency inversion between layers.
+- Focused on **high-load systems** — concurrency primitives, backpressure, idempotency, and graceful degradation under pressure.
+- Own the **full engineering lifecycle**: schema design, event-driven data flows, containerization, and automated delivery to Kubernetes.
+- Treat **infrastructure as code** and observability as a first-class feature, not an afterthought.
+- Ship working software at hackathons without compromising on correctness — fast delivery is not an excuse for fragile systems.
+- Write **deterministic, testable code**: table-driven tests, property-based checks, and clean failure modes over clever shortcuts.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-## ⚡ Message Brokers & Async
+## Technical Arsenal
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Area | Tooling |
+|---|---|
+| **Languages & Runtime** | Go, TypeScript, SQL, Bash |
+| **Architecture & Patterns** | Clean Architecture, DDD, Event-Driven Design, gRPC, REST APIs, Concurrent Systems |
+| **Databases & Caching** | PostgreSQL, Redis, SQLite |
+| **Infrastructure & CI/CD** | Docker, Kubernetes, GitHub Actions, Linux, Containerized Delivery |
 
-## 🎨 Frontend & UI
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Engineering Values
 
-## 🗄️ Databases
+- **Zero-Downtime Delivery** — rolling releases, graceful shutdown, and readiness probes. A deploy is not an incident.
+- **Data Integrity First** — transactional writes, idempotent consumers, explicit bounds. No event is ever lost.
+- **Deterministic, Testable Code** — code that behaves predictably, fails loudly, and is verified by automated tests.
+- **Simplicity Over Cleverness** — boring, predictable infrastructure wins in production. Complexity is a cost, not a feature.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-## 🐳 DevOps & Infrastructure
+## GitHub Activity
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
-📊 Статистика GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Xolokostick&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolokostick&layout=compact&theme=radical" alt="Top Languages" width="45%"> </p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodesForge&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/CodesForge)
+[![Streak](https://streak-stats.demolab.com/?user=CodesForge&theme=dark&hide_border=true&background=0D1117)](https://github.com/CodesForge)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesForge&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/CodesForge)
 
-📫 Связь со мной
-<p align="center"> <a href="mailto:vkmgscarf4@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://t.me/CodesForge"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://github.com/CodesForge"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
+</div>
 
-<p align="center"> <i>🔧 Пишу код, который решает реальные проблемы, а не просто выполняет задачи</i> </p> 
+---
+
+## Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/@CodesForge-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/CodesForge)
+[![Email](https://img.shields.io/badge/codesforge@icloud.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codesforge@icloud.com)
+[![GitHub](https://img.shields.io/badge/CodesForge-181717?style=flat&logo=github&logoColor=white)](https://github.com/CodesForge)
+
+</div>
+
+<p align="center"><i>Open to interesting collaborations, distributed systems discussions, and hackathon teams.</i></p>
+
+<p align="center">© 2026 CodesForge</p>
