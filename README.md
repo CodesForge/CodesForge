@@ -54,9 +54,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodesForge&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/CodesForge)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CodesForge&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/CodesForge)
 [![Streak](https://streak-stats.demolab.com/?user=CodesForge&theme=dark&hide_border=true&background=0D1117)](https://github.com/CodesForge)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesForge&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/CodesForge)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CodesForge&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/CodesForge)
 
 </div>
 
